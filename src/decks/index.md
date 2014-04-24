@@ -1,22 +1,10 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>Building the &ldquo;Front Half&rdquo;<br>of Your App</title>
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
-    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Lato:400,700">
-    <link rel="stylesheet" href="build/slides.css">
-    <script>document.write('<script src="http://' + (location.host || 'localhost').split(':')[0] + ':35729/livereload.js?snipver=1"></' + 'script>')</script>
-  </head>
-</html>
-<body>
-<textarea id="source">
-
+htmltitle: Building the “Front Half” of Your App (With Grunt)
 class: center, middle, title
 
-# Building the &ldquo;Front Half&rdquo;<br>of Your App
+# Building the &ldquo;Front Half&rdquo;<br> of Your App
 ## (With Grunt)
 
-![](assets/grunt-logo-no-wordmark.svg)
+![](images/grunt-logo-no-wordmark.svg)
 
 .right[
   &ldquo;Cowboy&rdquo; Ben Alman  
@@ -68,7 +56,7 @@ class: brown
 ## Huge community = tons of plugins
 
 --
-[![](assets/grunt-plugins.png)](http://gruntjs.com/plugins/lint)
+[![](images/grunt-plugins.png)](http://gruntjs.com/plugins/lint)
 
 ---
 class: orange
@@ -96,7 +84,7 @@ class: orange
 ## Node.js works pretty much anywhere
 
 --
-[![](assets/nodejs-install.png)](http://nodejs.org/download/)
+[![](images/nodejs-install.png)](http://nodejs.org/download/)
 
 --
 ### &hellip;and there are Apt / Homebrew / chocolatey packages for Node.js too.
@@ -119,12 +107,12 @@ class: brown
 
 ---
 class: orange
-## IDE support
+## IDE support!!!
 
 --
 ### This is pretty new, but WebStorm just added a Grunt console!
 
-[![](assets/webstorm-grunt.png)](http://www.jetbrains.com/webstorm/)
+[![](images/webstorm-grunt.png)](http://www.jetbrains.com/webstorm/)
 
 ---
 class: center, middle
@@ -240,8 +228,3 @@ class: center, middle, orange
   &ldquo;Cowboy&rdquo; Ben Alman  
   Bocoup  
 ]
-
-</textarea>
-<script src="assets/remark-latest.min.js" type="text/javascript"></script>
-<script type="text/javascript">var slideshow = remark.create();</script>
-</body>
