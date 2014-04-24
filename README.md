@@ -4,6 +4,8 @@
 
 Given at [Philly ETE](http://phillyemergingtech.com/2014) on April 23, 2014.
 
+View the slide deck at <http://cowboy.github.io/philly-ete-talk/>.
+
 ## BYO (Build Your Own)
 
 You'll need to have [Grunt](http://gruntjs.com/) installed.
